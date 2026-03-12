@@ -1,4 +1,6 @@
-# 🦸 SEO REPOSITORY — LOMBARD WEB SERVICES
+# 🦸 SEO REPOSITORY — Lombard Web Services
+
+![SEO Repository 2026](https://github.com/Lombard-Web-Services/SEO/blob/main/seorepo2026.png?raw=true)
 
 > *"With great visibility comes great responsibility."*
 
