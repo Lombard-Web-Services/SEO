@@ -43,7 +43,7 @@ Accédez à nos analyses enrichies, visualisations de données et recommandation
 - **Contenu** : Tous les documents sont la propriété intellectuelle de Lombard Web Services. Usage professionnel autorisé avec attribution.
 - **Méthodologie** : Analyses générées via Gemini AI, design réalisé avec Canva, validation par revue entre pairs.
 - **Licence** : [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) — Partage avec attribution, usage non-commercial, partage à l'identique.
-- **Contact** : [thibaut@lombard-web-services.com](mailto:thibaut@lombard-web-services.com)
+- **Contact** : [contact@lombard-web-services.com](mailto:contact@lombard-web-services.com)
 
 ---
 
